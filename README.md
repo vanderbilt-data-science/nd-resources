@@ -1,16 +1,14 @@
-# PDF_Quizzer
+# Text Sentiment Analysis
 
-PDF_Quizzer is an open-source AI solution that creates high-quality quizzes based on a given PDF, tailored to a designated skill level and background. The generated quizzes can be produced as text output or in a format suitable for Brightspace quiz import.
+Individuals with ASD may have a hard time reading emotional undertones in conversation, having a tool that could estimate the emotional sentiment of short messages(not needing truncation) like those in SMS would probably be useful. Inversely, being able to check the emotion/sentiment of a message before it is sent would also be useful. Results from a paraphrasing model could be used in conjunction with an emotion/sentiment characterization model to help pick alternative responses.
+
 
 ## Features
 
-- Generative AI and LangChain integration to process PDFs and create quizzes and answer keys
-- No programming background required for usage
-- Runs on Google Colab, with no additional installations needed
 
 ## Getting Started
 
-To use PDF_Quizzer, simply open it in Google Colab. It will take a few minutes to spin up and automatically install the required packages.
+
 
 ## Contributing
 
@@ -22,9 +20,8 @@ We aim to create a welcoming and inclusive community where everyone can feel com
 
 ## Meetings
 
-- Sprint Planning: Mondays at 9 am
-- Backlog Grooming: Wednesdays at 10 am
-- Retrospective: Fridays at 9 am
+- Sprint Planning: Mondays at 9:30 am
+- Retrospective: Fridays at 9:30 am
 - Demos: Fridays at 3 pm
 
 ## Additional Resources
@@ -42,7 +39,5 @@ If you encounter a bug, please submit an issue and label it with "Bug." To escal
 - Organization: Data Science Institute at Vanderbilt University
 - Program: Data Science for Social Good
 - Main Email: [datascience@vanderbilt.edu](mailto:datascience@vanderbilt.edu)
-- Staff Lead: [staff_lead@vanderbilt.edu](mailto:staff_lead@vanderbilt.edu)
-
-Remember to replace "Staff lead and email" with the actual name and email address of the staff lead.
+- Staff Lead: [myranda.shirk@vanderbilt.edu](mailto:myranda.shirk@vanderbilt.edu)
 
