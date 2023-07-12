@@ -1,7 +1,6 @@
-# Text Sentiment Analysis
+# Neurodivergent Resource Compliation
 
-Individuals with ASD may have a hard time reading emotional undertones in conversation, having a tool that could estimate the emotional sentiment of short messages(not needing truncation) like those in SMS would probably be useful. Inversely, being able to check the emotion/sentiment of a message before it is sent would also be useful. Results from a paraphrasing model could be used in conjunction with an emotion/sentiment characterization model to help pick alternative responses.
-
+This repo will serve as a compilation of useful resources for neurodivergent folks. 
 
 ## Features
 
