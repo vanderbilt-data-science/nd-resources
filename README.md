@@ -8,7 +8,7 @@ The wiki will have multiple sections that each cover a different topic that neur
 
 ## Getting Started
 
-While creating a homepage for the wiki should currently be top priority so that we have something that we can add to, we should also try to gather resources that we can add to the wiki so that we have a head start when we add those resources to the wiki.
+To access this wiki, click on the "Wiki" tab for this repo.
 
 ## Contributing
 
